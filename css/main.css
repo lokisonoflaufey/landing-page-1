@@ -2,8 +2,8 @@
 
 body {
     font-family: 'Joan', serif;
-    color: #805b63;
-    background-color: gainsboro;
+    color: #023c07;
+    background-color: peachpuff;
 }
 
 /****** GRID ******/
@@ -77,7 +77,7 @@ header h2 span {
 }
 #about p {
     font-size: 21px;
-    color: #e58beb;
+    color: #027240;
     line-height: 40px;
     padding-left: 50px;
     padding-right: 50px;
@@ -89,7 +89,7 @@ header h2 span {
 /****** WORK ******/
 
 #work {
-    background-color: #eddcd2;
+    background-color: #b2dcfa;
     text-align: center;
 }
 
@@ -125,7 +125,8 @@ header h2 span {
 }
 #contact img#contact-img {
     margin-left: 25px;
-    border: 12px solid #9af0f7;
+    border: 12px solid #01282b;
+    
 }
 #contact h2, #contact #email-header, #contact #socialmedia-header, #contact ul {
     padding-left: 115px;
